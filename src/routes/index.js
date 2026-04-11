@@ -1,5 +1,5 @@
 const {Router} = require("express");
-const faker = require('faker');
+const { faker } = require('@faker-js/faker');
 const router = Router();
 const User = require("./../models/user.js");
 
