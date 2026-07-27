@@ -9,7 +9,7 @@
     "express": "^4.22.2",
     "@faker-js/faker": "^8.4.1",
     "mongoose": "^6.13.0",
-    "morgan": "^1.10.0"
+    "morgan": "^1.11.0"
   },
   "description": "api backend for test frontend",
   "devDependencies": {
